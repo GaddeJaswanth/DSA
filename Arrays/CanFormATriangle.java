@@ -2,8 +2,6 @@ import java.util.* ;
 import java.io.*; 
 public class Solution{
 	public static boolean possibleToMakeTriangle(ArrayList<Integer> arr){
-		// Write your code here.
-
 		if(arr.size()<3){
 			return false;
 		}
