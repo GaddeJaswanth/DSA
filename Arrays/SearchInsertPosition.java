@@ -20,3 +20,5 @@ public class Solution {
 }
 
 //Find appropriate position for 'm' in 'arr'
+//Given array 'arr' is not sorted.
+//If a sorted Array is given -> use Binary search instead of linear search as above.
